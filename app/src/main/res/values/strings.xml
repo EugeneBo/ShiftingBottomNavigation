@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShiftingBottomNavigation</string>
+    <string name="movie_and_tv_title">Movie &amp; Tv</string>
+    <string name="music_title">Music</string>
+    <string name="books_title">Books</string>
+    <string name="news_title">Newsstand</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>

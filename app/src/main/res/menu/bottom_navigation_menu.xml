@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:id="@+id/action_movie_and_tv"
+        android:title="@string/movie_and_tv_title"
+        android:icon="@drawable/ic_ondemand_video_white_24dp" />
+
+    <item android:id="@+id/action_music"
+        android:title="@string/music_title"
+        android:icon="@drawable/ic_music_note_white_24dp" />
+
+    <item android:id="@+id/action_books"
+        android:title="@string/books_title"
+        android:icon="@drawable/ic_book_white_24dp" />
+
+    <item android:id="@+id/action_newsstand"
+        android:title="@string/news_title"
+        android:icon="@drawable/ic_chrome_reader_mode_white_24dp" />
+
+
+</menu>

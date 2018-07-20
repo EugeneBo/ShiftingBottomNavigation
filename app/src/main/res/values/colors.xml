@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="bottomNavBackground_MoviesAndTv">#465a65</color>
+    <color name="bottomNavBackground_Music">#ad1457</color>
+    <color name="bottomNavBackground_Books">#616161</color>
+    <color name="bottomNavBackground_News">#02685C</color>
+
+</resources>
+
